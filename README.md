@@ -1,7 +1,7 @@
 
 # Linux OS Management Script Suite
 # Name(s):Sher, Hanna, and Yahya  
-# Student Number(s): 991490409, 991622474
+# Student Number(s): 991490409, 991622474, 991770406
 
 This repository contains five tools to monitor and manage system processes, CPU usage, memory usage, file systems, and network activity. Each script provides a menu-driven interface for easy interaction.
 
