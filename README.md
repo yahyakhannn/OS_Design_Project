@@ -1,23 +1,23 @@
 
-# **Linux OS Management Script Suite**
-**Name(s):** Sher, Hanna, and Yahya  
-**Student Number(s):** 991490409, 991622474
+# Linux OS Management Script Suite
+# Name(s):Sher, Hanna, and Yahya  
+# Student Number(s): 991490409, 991622474
 
 This repository contains five tools to monitor and manage system processes, CPU usage, memory usage, file systems, and network activity. Each script provides a menu-driven interface for easy interaction.
 
 ---
 
-## **1. process_manager_tool.sh**
+## 1. process_manager_tool.sh
 
-### **Description**
+### Description
 The `process_manager_tool.sh` script allows you to manage and monitor system processes.
 
-### **Usage**
+### Usage
 ```bash
 bash process_manager_tool.sh
 ```
 
-### **Options**
+### Options
 | Option | Description                                       |
 |--------|---------------------------------------------------|
 | `1`    | List all running processes (PID, user, CPU, memory). |
@@ -29,17 +29,17 @@ bash process_manager_tool.sh
 
 ---
 
-## **2. cpu_manager_tool.sh**
+## 2. cpu_manager_tool.sh
 
-### **Description**
+### Description
 The `cpu_manager_tool.sh` script monitors and analyzes CPU usage.
 
-### **Usage**
+### Usage
 ```bash
 bash cpu_manager_tool.sh
 ```
 
-### **Options**
+### Options
 | Option | Description                                          |
 |--------|------------------------------------------------------|
 | `1`    | Display current CPU usage percentage.               |
@@ -50,17 +50,17 @@ bash cpu_manager_tool.sh
 
 ---
 
-## **3. memory_manager_tool.sh**
+## 3. memory_manager_tool.sh
 
-### **Description**
+### Description
 The `memory_manager_tool.sh` script monitors and manages system memory.
 
-### **Usage**
+### Usage
 ```bash
 bash memory_manager_tool.sh
 ```
 
-### **Options**
+### Options
 | Option | Description                                          |
 |--------|------------------------------------------------------|
 | `1`    | Display current memory usage (total, used, free).    |
@@ -71,17 +71,17 @@ bash memory_manager_tool.sh
 
 ---
 
-## **4. file_system_monitor_tool.sh**
+## 4. file_system_monitor_tool.sh
 
-### **Description**
+### Description
 The `file_system_monitor_tool.sh` script monitors disk usage and file changes.
 
-### **Usage**
+### Usage
 ```bash
 bash file_system_monitor_tool.sh
 ```
 
-### **Options**
+### Options
 | Option | Description                                          |
 |--------|------------------------------------------------------|
 | `1`    | Display disk usage for each mounted filesystem.      |
@@ -92,17 +92,17 @@ bash file_system_monitor_tool.sh
 
 ---
 
-## **5. network_monitor_tool.sh**
+## 5. network_monitor_tool.sh
 
-### **Description**
+### Description
 The `network_monitor_tool.sh` script manages and monitors network activity.
 
-### **Usage**
+### Usage
 ```bash
 bash network_monitor_tool.sh
 ```
 
-### **Options**
+### Options
 | Option | Description                                          |
 |--------|------------------------------------------------------|
 | `1`    | Display IP addresses and statuses of active interfaces. |
@@ -113,5 +113,5 @@ bash network_monitor_tool.sh
 
 ---
 
-## **License**
+## License
 Released under the MIT License.
